@@ -1,3 +1,11 @@
+## 🔄 Project Lifecycle
+**Step 1: [Data Cleaning & Transformation](LINK_TO_CLEANING_REPO)** ⬅️
+The raw data underwent a rigorous cleaning process (removing duplicates, fixing nulls, and standardizing types) before analysis.
+
+**Step 2: Exploratory Data Analysis (Current Repository)** ➡️
+This stage focuses on extracting actionable insights and trends from the cleaned dataset.
+
+
 # SQL-Exploratory-Data-Analysis-Global-Layoffs-Trends
 Following the successful cleaning and standardization of the global layoffs dataset, this project focuses on Exploratory Data Analysis (EDA). Using advanced MySQL queries, I investigated the data to uncover patterns, identify the industries most impacted by economic shifts, and track the progression of layoffs over time.
 Key Analytical Deep-Dives
